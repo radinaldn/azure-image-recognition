@@ -1,0 +1,7 @@
+{
+    "require": {
+        "microsoft/azure-storage-blob": "~1.0",
+        "vlucas/phpdotenv": "^3.3",
+        "filp/whoops": "^2.3"
+    }
+}
