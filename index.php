@@ -15,7 +15,7 @@
             // **********************************************
 
             // Replace <Subscription Key> with your valid subscription key.
-            var subscriptionKey = "1ff34cd21fce4ca2a0d10220544fa88f";
+            var subscriptionKey = "f5ecdaf854c64310be3ead9979e6841a";
 
             // You must use the same Azure region in your REST API method as you used to
             // get your subscription keys. For example, if you got your subscription keys
@@ -77,7 +77,7 @@
     <br><br>
     Image to analyze:
     <input type="text" name="inputImage" id="inputImage"
-        value="https://adryanevstorage.blob.core.windows.net/blockblobsfwwqms/1543035822545341.jpg" />
+        value="https://radinaldn.blob.core.windows.net/recognition/avengers-end-game-chris-evans-captain-america-1-1552569157.jpg" />
     <button onclick="processImage()">Analyze image</button>
     <br><br>
     <div id="wrapper" style="width:1020px; display:table;">
